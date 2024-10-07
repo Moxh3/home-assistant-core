@@ -99,6 +99,7 @@ FLOWS = {
         "bsblan",
         "bthome",
         "buienradar",
+        "byte_watt_battery",
         "caldav",
         "cambridge_audio",
         "canary",

@@ -237,6 +237,8 @@ build.json @home-assistant/supervisor
 /tests/components/buienradar/ @mjj4791 @ties @Robbie1221
 /homeassistant/components/button/ @home-assistant/core
 /tests/components/button/ @home-assistant/core
+/homeassistant/components/byte_watt_battery/ @M0xh3
+/tests/components/byte_watt_battery/ @M0xh3
 /homeassistant/components/calendar/ @home-assistant/core
 /tests/components/calendar/ @home-assistant/core
 /homeassistant/components/cambridge_audio/ @noahhusby

@@ -848,6 +848,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "byte_watt_battery": {
+      "name": "Neovolt Home Battery",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "caldav": {
       "name": "CalDAV",
       "integration_type": "hub",

@@ -1,0 +1,13 @@
+{
+  "domain": "byte_watt_battery",
+  "name": "Neovolt Home Battery",
+  "codeowners": ["@M0xh3"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/byte_watt_battery",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
